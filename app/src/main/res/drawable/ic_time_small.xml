@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@android:drawable/ic_menu_edit"
+    android:scaleWidth="60%"
+    android:scaleHeight="60%"
+    android:useIntrinsicSizeAsMinimum="true" />
+
+
